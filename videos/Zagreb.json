@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Zagreb/Zagreb_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FZagreb_ULTRA.webm?v=1628068673797",
+    "jmcs://jd-contents/Zagreb/Zagreb_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FZagreb_HIGH.webm?v=1628068676029",
+    "jmcs://jd-contents/Zagreb/Zagreb_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FZagreb_MID.webm?v=1628068663152",
+    "jmcs://jd-contents/Zagreb/Zagreb_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FZagreb_LOW.webm?v=1628068663789",
+    "jmcs://jd-contents/Zagreb/Zagreb.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FZagreb.ogg?v=1628068663490"
+  }
+}

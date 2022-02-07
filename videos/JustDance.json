@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/JustDance/JustDance_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJustDance_ULTRA.webm?v=1628069284657",
+    "jmcs://jd-contents/JustDance/JustDance_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJustDance_HIGH.webm?v=1628069287184",
+    "jmcs://jd-contents/JustDance/JustDance_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJustDance_MID.webm?v=1628069280892",
+    "jmcs://jd-contents/JustDance/JustDance_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJustDance_LOW.webm?v=1628069270604",
+    "jmcs://jd-contents/JustDance/JustDance.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FJustDance.ogg?v=1628069256485"
+  }
+}

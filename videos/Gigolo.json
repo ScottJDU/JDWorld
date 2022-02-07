@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Gigolo/Gigolo_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FGigolo_ULTRA.webm?v=1628068953351",
+    "jmcs://jd-contents/Gigolo/Gigolo_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FGigolo_HIGH.webm?v=1628068946384",
+    "jmcs://jd-contents/Gigolo/Gigolo_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FGigolo_MID.webm?v=1628068933685",
+    "jmcs://jd-contents/Gigolo/Gigolo_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FGigolo_LOW.webm?v=1628068936269",
+    "jmcs://jd-contents/Gigolo/Gigolo.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FGigolo.ogg?v=1628068933685"
+  }
+}

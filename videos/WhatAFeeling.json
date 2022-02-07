@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_ULTRA.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWhatAFeeling_ULTRA.webm?v=1628064896168",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_HIGH.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWhatAFeeling_HIGH.webm?v=1628064891420",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_MID.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWhatAFeeling_MID.webm?v=1628064891135",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling_LOW.webm": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWhatAFeeling_LOW.webm?v=1628064880252",
+    "jmcs://jd-contents/WhatAFeeling/WhatAFeeling.ogg": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FWhatAFeeling.ogg?v=1628064881422"
+  }
+}
