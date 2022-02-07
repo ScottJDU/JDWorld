@@ -1,0 +1,39 @@
+{
+	"__class": "OnlineQuestDb",
+	"quests": [
+		{
+			"__class": "OnlineQuest",
+			"assetUrls": {
+				"phoneImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest.png",
+				"coverImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest.tga.ckd",
+				"logoImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest_Logo.tga.ckd",
+				"logoShadedImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest_Logo.tga.ckd"
+			},
+			"id": "29",
+			"locked": 0,
+			"playlist": [
+				"KDance",
+				"4x4",
+				"Sorry"
+			],
+			"title": "RING"
+		},
+		{
+			"__class": "OnlineQuest",
+			"assetUrls": {
+				"phoneImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest.png",
+				"coverImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest.tga.ckd",
+				"logoImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest_Logo.tga.ckd",
+				"logoShadedImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279/RingQuest_Logo.tga.ckd"
+			},
+			"id": "28",
+			"locked": 0,
+			"playlist": [
+				"HeadAndHeart",
+				"Intoxicated",
+				"DontStopMe"
+			],
+			"title": "Season 3"
+		}
+	]
+}
